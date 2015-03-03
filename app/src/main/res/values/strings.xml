@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_cover_page">gpSU</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_weather">Syracuse Weather</string>
+    <string name="app_name">gpSU</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="change_city">Change city</string>
+    <string name="google_maps_key">AIzaSyANNVpIbZA1xrP28PQ4BDYY8YvLnifVZAk</string>
+    <!-- <string name="google_maps_key">AIzaSyDt7tiiJD0XogOAjie95tvO1jqKgfUrXd0</string> -->
+    <string name="action_busing">Busing</string>
+    <string name="action_settings">Settings</string>
+    <!-- Put your own APP ID here -->
+
+
+    <!--
+    <string name="open_weather_maps_app_id">11111</string>
+    <string name="weather_sunny"></string>
+    <string name="weather_clear_night"></string>
+    <string name="weather_foggy"></string>
+    <string name="weather_cloudy"></string>
+    <string name="weather_rainy"></string>
+    <string name="weather_snowy"></string>
+    <string name="weather_thunder"></string>
+    <string name="weather_drizzle"></string>
+    <string name="place_not_found">Sorry, no weather data found.</string>
+    -->
+
+    <string name="mapButton">mapButton</string>
+    <string name="weather_pressure">Pressure:</string>
+    <string name="weather_description">Description:</string>
+    <string name="weather_humidity">Humidity:</string>
+    <string name="weather_temperature">Temperature:</string>
+    <string name="mapMove">Map</string>
+    <string name="title_activity_main">main</string>
+    <string name="title_activity_directions">directions</string>
+    <string name="title_activity_bus">Syracuse Busing</string>
+
+</resources>
